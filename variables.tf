@@ -1,0 +1,12 @@
+variable "tenant" {}
+variable "name" {}
+variable "environment" {}
+variable "key_usage" {}
+variable "key_algorithm" {}
+variable "is_enabled" {}
+variable "pending_days" {}
+variable "rotation_enabled" {}
+variable "public_key" {}
+variable "ecs_encryption" {}
+variable "rds_encryption" {}
+variable "cce_encryption" {}
