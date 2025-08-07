@@ -24,7 +24,7 @@ module "dew" {
   pending_days     = 7
 
   # EC2 Key Pair Configuration
-  public_key = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP4pI3O3wgYOS82gztfjcQ3ZdNCuDyFP70iCQnI8tYAp"
+  public_key = "ssh-ed25519 AAAAC3NzaC1lZDI..."
 }
 
 ```
